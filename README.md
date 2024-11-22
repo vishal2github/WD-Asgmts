@@ -1,3 +1,3 @@
-# Web-development Assignments
+# Web-designing Assignments
 
-This is the repository for Web-development assignments.
+This is the repository for Web-designing assignments.
