@@ -1,0 +1,31 @@
+h1 {
+    color: red;
+}
+
+h2 {
+    color: rgb(0, 236, 0);
+    font-style: italic;
+}
+
+ul {
+    color: rgb(165, 42, 42);
+    letter-spacing: 5px;
+}
+
+.p1 {
+    color: rgb(165, 42, 42);
+    font-size: large;
+}
+
+.p2 {
+    color: rgb(165, 42, 42);
+    font-size: 10px;
+}
+
+.p3 {
+    color: brown;
+}
+
+a {
+    color: brown;
+}
