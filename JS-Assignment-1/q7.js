@@ -1,4 +1,4 @@
-// ASSIGNMENT 7
+// QUESTION 7
 
 let a = 15, b = 5;
 

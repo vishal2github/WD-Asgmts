@@ -1,4 +1,4 @@
-// ASSIGNMENT 1
+// QUESTION 1
 
 let a = 5, b = 500;
 

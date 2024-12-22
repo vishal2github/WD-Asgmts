@@ -1,4 +1,4 @@
-// ASSIGNMENT 2
+// QUESTION 2
 
 let a = 73, b = 42;
 

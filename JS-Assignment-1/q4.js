@@ -1,4 +1,4 @@
-// ASSIGNMENT 4
+// QUESTION 4
 
 let n = 7458;
 

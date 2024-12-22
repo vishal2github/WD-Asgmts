@@ -1,4 +1,4 @@
-// ASSIGNMENT 3
+// QUESTION 3
 
 let a = 10010, b = 4201;
 
